@@ -1,0 +1,1 @@
+SEA_DESTINATIONS = { "Bari": "BRI", "Alicante": "ALC", "Malaga": "AGP", "Palma de Mallorca": "PMI", "Catania": "CTA", "Athens": "ATH", "Corfu": "CFU", "Rhodes": "RHO", "Heraklion": "HER", "Thessaloniki": "SKG", "Dubrovnik": "DBV", "Split": "SPU", "Zadar": "ZAD", "Pula": "PUY", "Larnaca": "LCA", "Naples": "NAP", "Cagliari": "CAG", "Olbia": "OLB", }

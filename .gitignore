@@ -1,0 +1,11 @@
+dist/
+build/
+__pycache__
+*.pyc
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+main.spec
+*.csv
